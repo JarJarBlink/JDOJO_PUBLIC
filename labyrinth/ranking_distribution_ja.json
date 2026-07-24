@@ -2,91 +2,6 @@
   "cc": "ja",
   "snapshots": [
     {
-      "updated_at": "2026-07-23T05:00:00Z",
-      "data": [
-        {
-          "ranking": 1,
-          "progress": 100,
-          "remaining_cats": 43
-        },
-        {
-          "ranking": 2,
-          "progress": 92,
-          "remaining_cats": 3
-        },
-        {
-          "ranking": 3,
-          "progress": 85,
-          "remaining_cats": 7
-        },
-        {
-          "ranking": 5,
-          "progress": 76,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 6,
-          "progress": 72,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 15,
-          "progress": 52,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 16,
-          "progress": 51,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 25,
-          "progress": 41,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 26,
-          "progress": 40,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 35,
-          "progress": 33,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 36,
-          "progress": 32,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 49,
-          "progress": 24,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 51,
-          "progress": 23,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 73,
-          "progress": 12,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 76,
-          "progress": 11,
-          "remaining_cats": 0
-        },
-        {
-          "ranking": 100,
-          "progress": 1,
-          "remaining_cats": 0
-        }
-      ]
-    },
-    {
       "updated_at": "2026-07-23T08:00:00Z",
       "data": [
         {
@@ -841,6 +756,91 @@
         },
         {
           "ranking": 75,
+          "progress": 12,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 100,
+          "progress": 1,
+          "remaining_cats": 0
+        }
+      ]
+    },
+    {
+      "updated_at": "2026-07-24T05:00:00Z",
+      "data": [
+        {
+          "ranking": 1,
+          "progress": 100,
+          "remaining_cats": 34
+        },
+        {
+          "ranking": 2,
+          "progress": 95,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 3,
+          "progress": 88,
+          "remaining_cats": 1
+        },
+        {
+          "ranking": 5,
+          "progress": 80,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 6,
+          "progress": 76,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 15,
+          "progress": 57,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 16,
+          "progress": 55,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 25,
+          "progress": 44,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 26,
+          "progress": 43,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 35,
+          "progress": 36,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 36,
+          "progress": 35,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 50,
+          "progress": 26,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 51,
+          "progress": 25,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 74,
+          "progress": 13,
+          "remaining_cats": 0
+        },
+        {
+          "ranking": 76,
           "progress": 12,
           "remaining_cats": 0
         },
